@@ -12,3 +12,7 @@ clone repository, install dependencies and run development server
 ```
 
 Open web browser and navigate at http://localhost:3000
+
+### Features
+
+- Consuming services from youtube api with ReactJS
